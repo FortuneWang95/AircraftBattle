@@ -1,6 +1,8 @@
 # AircraftBattle
-A small game 'Aircraft Battle' coded by pygame. Run main.py and then you can play this small game.
+A small game 'Aircraft Battle' coded by pygame. 
+Run main.py and then you can play this small game.
 The game interface is like this followed.
+![image](https://github.com/FortuneWang95/AircraftBattle/edit/master/images/demo1.png)
 You will control your hero aircraft to fight with other enemies with bulllets. Three kinds of enemies(small enemies, moderate enemies and large enemies).
 The more size the enemy is, the more lives it has.
 Watch out your subject only has 5 lives. Each colliding means lose one life. 0 lives means game over.
